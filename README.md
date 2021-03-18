@@ -1,12 +1,6 @@
-### Hi there 👋
-
-<!--
-**riya-1711/riya-1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m a student at VIT Bhopal
-- 🌱 I’m currently learning C++ as a programming language.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking to seek help in java.
-- 💬 My hobbies include dancing, singing, and swimming.
+Hi there My self Riya Bangia. 
+Beginner in Coding and always ready learn.
+I have the basic knowledge of C++, Python and very samll amount of Kotlin.
+Always ready to learn new coding language. 
+Try to spend more time in problem solving to improve myself. 
+I have trird many small project in python and c++.
