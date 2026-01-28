@@ -2,8 +2,7 @@
 
 I’m a Data Scientist and Machine Learning Engineer focused on building **reliable, decision-ready models** and **production-friendly ML systems**. I’m currently pursuing an **M.S. in Data Science at the University of Georgia (GPA 4.0)** and work as a **Graduate Research Assistant**, collaborating with the **US National Park Service** on large-scale ecological analytics and modeling.
 
-📍 Athens, GA  
-📧 riyabangia1711@gmail.com  
+📍 Athens, GA    
 🔗 [LinkedIn](www.linkedin.com/in/riyabangia) | [GitHub](https://github.com/riya-1711)
 
 ---
