@@ -68,5 +68,4 @@ A system for citation and claim analysis featuring:
 
 If you’d like to discuss opportunities in data science, machine learning, or applied AI:
 
-📧 riyabangia1711@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/riyabangia)
