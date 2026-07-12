@@ -14,10 +14,18 @@ I work across the full data science lifecycle - problem framing, data quality an
 ## Experiences
 
 ### Statistical and Bayesian modeling
-In my current research role, I develop **Bayesian hierarchical spatiotemporal models** in **R** to estimate community trends and calibrated uncertainty at scale (1,900+ monitoring sites, 400+ species). I spend a meaningful amount of time on:
-- model diagnostics (MCMC convergence, posterior stability)
-- sensitivity checks and identifiability considerations
-- communicating uncertainty in a way that supports decisions
+For my master’s thesis, I developed a three-tier Bayesian hierarchical model in Python using Pyro and PyTorch to analyze Caribbean reef-fish communities across 1,929 monitoring sites and 89 retained species. The framework separately models:
+- latent species occupancy under imperfect detection
+- species detection probabilities using survey conditions and species-level structure
+- positive relative community composition using a Dirichlet model
+I used stochastic variational inference to estimate the posterior distribution of model parameters and latent quantities. My work included:
+- designing hierarchical likelihoods and prior structures
+- incorporating habitat, management, species-trait, and phylogenetic information
+- modeling residual spatial and cross-species dependence through low-rank latent factors
+- performing cross-validation, hyperparameter search, and held-out model evaluation
+- assessing discrimination, calibration, posterior stability, and ecological interpretability
+- communicating model-based uncertainty and the distinction between observed, detected, and expected occupancy richness
+The final framework provides a scalable approach for separating ecological occurrence from observation error in multispecies monitoring data.
 
 ### Applied machine learning and AI systems
 In industry, I’ve built and deployed ML systems end-to-end, including:
