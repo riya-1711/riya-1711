@@ -26,6 +26,7 @@ I used stochastic variational inference to estimate the posterior distribution o
 - performing cross-validation, hyperparameter search, and held-out model evaluation
 - assessing discrimination, calibration, posterior stability, and ecological interpretability
 - communicating model-based uncertainty and the distinction between observed, detected, and expected occupancy richness
+
 The final framework provides a scalable approach for separating ecological occurrence from observation error in multispecies monitoring data.
 
 ### Applied machine learning and AI systems
