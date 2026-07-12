@@ -18,6 +18,7 @@ For my master’s thesis, I developed a three-tier Bayesian hierarchical model i
 - latent species occupancy under imperfect detection
 - species detection probabilities using survey conditions and species-level structure
 - positive relative community composition using a Dirichlet model
+  
 I used stochastic variational inference to estimate the posterior distribution of model parameters and latent quantities. My work included:
 - designing hierarchical likelihoods and prior structures
 - incorporating habitat, management, species-trait, and phylogenetic information
